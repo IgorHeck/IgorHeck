@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" title="Java" />
@@ -58,7 +58,7 @@
 ###
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IgorHeck&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&background=0d1117" height="160" alt="streak" />
@@ -72,7 +72,7 @@
 
 ---
 
-### 🚀 Projetos
+### Projetos
 
 <div align="center">
 
