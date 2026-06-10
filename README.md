@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=200&section=header&text=Igor%20Henrique%20Heck&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=200&section=header&text=Igor%20Henrique%20Heck&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20%E2%80%A2%20Java%20e%20Spring%20Boot&descAlignY=58&descSize=18" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -87,7 +87,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorHeck&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IgorHeck&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
 
 <div align="center">
