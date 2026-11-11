@@ -1,107 +1,52 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=200&section=header&text=Igor%20Henrique%20Heck&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvedor%20Backend%20%E2%80%A2%20Java%20e%20Spring%20Boot&descAlignY=58&descSize=18" />
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java+%26+Spring+Boot;Arquiteturas+de+Microsservi%C3%A7os;APIs+REST+e+sistemas+escal%C3%A1veis;C%C3%B3digo+limpo+e+boas+pr%C3%A1ticas" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:igor.heck2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-E94560?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://github.com/IgorHeck">
-    <img src="https://img.shields.io/badge/GitHub-16213e?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=IgorHeck&style=for-the-badge&color=0f3460&label=PERFIL+VISTO" alt="profile views" />
-</p>
-
-###
-
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### 👋 Sobre mim
-
-<p align="left">
-  Olá! Sou o <strong>Igor Henrique Heck</strong>, desenvolvedor backend com foco em <strong>Java</strong> e <strong>Spring Boot</strong>.<br><br>
-  Gosto de construir <strong>APIs robustas</strong>, <strong>arquiteturas de microsserviços</strong> e <strong>sistemas escaláveis</strong>. Também transito pelo frontend com <strong>React</strong> e <strong>TypeScript</strong> quando o projeto pede.<br><br>
-  Sempre buscando escrever código limpo, aplicar boas práticas e aprender algo novo no caminho. ☕
-</p>
-
-<br clear="both" />
-
----
-
-### 🛠️ Tecnologias
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" title="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring" title="Spring Boot" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" title="Docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" title="PostgreSQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" title="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" title="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="45" alt="electron" title="Electron" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" title="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" title="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" title="Git" />
-</div>
-
----
-
-### 🚀 Projetos em destaque
-
-<div align="center">
-
-| &nbsp; | Projeto | Descrição | Tech |
-|:---:|---|---|:---:|
-| 📅 | [**scheduling**](https://github.com/IgorHeck/scheduling) | Sistema completo de agendamento — API REST + frontend, unificados num só repositório | `Java` · `TS` |
-| 🔗 | [**microsservicos**](https://github.com/IgorHeck/microsservicos) | Arquitetura de microsserviços com Spring Boot | `Java` |
-| 🖥️ | [**terminal-app**](https://github.com/IgorHeck/terminal-app) | Gerenciador de terminais desktop organizado por projetos (Electron + React) | `Electron` · `React` |
-| 🔢 | [**calculadora-extensao-navegador**](https://github.com/IgorHeck/calculadora-extensao-navegador-v1.0.0) | Extensão de navegador com calculadora funcional | `JS` |
-
-</div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorHeck&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=5&bg_color=0d1117&title_color=E94560&icon_color=E94560" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorHeck&layout=compact&theme=tokyonight&hide_border=true&border_radius=5&bg_color=0d1117&title_color=E94560" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=IgorHeck&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&background=0d1117&ring=E94560&fire=E94560&currStreakLabel=E94560" height="160" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorHeck&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IgorHeck/IgorHeck/languages-output/languages.svg" height="150" alt="languages graph" />
-</div>
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorHeck/IgorHeck/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorHeck/IgorHeck/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorHeck/IgorHeck/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Igor Henrique Heck — Desenvolvedor Backend Java · Spring Boot" src="assets/banner-light.svg" width="100%">
 </picture>
 
----
+<p>
+  <a href="https://igorheck.github.io"><img alt="Portfólio" src="https://img.shields.io/badge/portfólio-igorheck.github.io-0F6E73?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/igorheck/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Igor%20Heck-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:igor.heck2002@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/e--mail-igor.heck2002%40gmail.com-14202B?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+Sou desenvolvedor backend com foco em **Java e Spring Boot**, bacharel em Ciência da Computação pela UNESC.
+
+Há mais de 3 anos trabalho na **Betha Sistemas**, software de gestão pública: escrevo scripts e fórmulas em Groovy que rodam em produção para municípios, crio relatórios e apoio migrações de dados. Foi ali que aprendi a entender o problema do cliente antes de escrever código.
+
+Fora do trabalho, construo produtos completos — da modelagem do banco ao frontend, com testes e Docker.
+
+**Procurando:** vaga de desenvolvedor backend (Java/Spring) em time de produto, em Criciúma (SC) ou remoto.
+
+## Projetos
+
+| | Projeto | O que resolve | Stack |
+| --- | --- | --- | --- |
+| 📅 | **[Scheduling](https://github.com/IgorHeck/scheduling)** | Agendamento multi-tenant para clínicas: 4 papéis de acesso, booking público sem cadastro, JWT com refresh e revogação, painel em tempo real via SSE. | Java 21, Spring Boot 3, PostgreSQL, Redis, React |
+| 🏥 | **[Clineo](https://github.com/IgorHeck/clineo)** | SaaS de gestão de clínicas: agenda, pacientes e financeiro. Estudo de caso público; código privado. | Java 21, Spring Boot 3, PostgreSQL, Redis, Angular |
+| 🖥️ | **[Terminal Desktop](https://github.com/IgorHeck/terminal-app)** | Terminais organizados por projeto, com PTY real e bloqueio de comandos perigosos. | Electron, React, node-pty |
+| 🧭 | **[Maestri para Windows](https://github.com/IgorHeck/open-maestri)** | Reescrita de um app macOS (Swift) em Electron, mantendo formato de dados e protocolo de CLI compatíveis. | TypeScript, Electron, Vitest |
+| 📨 | **[Microsserviços de pedidos](https://github.com/IgorHeck/microsservicos)** | Três serviços Spring Boot que conversam só por mensagens. | Java, RabbitMQ, PostgreSQL |
+
+## Stack
+
+<p>
+  <img alt="Java, Spring, PostgreSQL, Redis, RabbitMQ, Docker, GitHub Actions, React, TypeScript, Python, Git" src="https://skillicons.dev/icons?i=java,spring,postgres,redis,rabbitmq,docker,githubactions,react,ts,py,git&perline=11">
+</p>
+
+**Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, APIs REST, Groovy<br>
+**Dados:** PostgreSQL, SQL, Flyway, Redis, RabbitMQ, Python para tratamento de dados<br>
+**Qualidade e entrega:** JUnit 5, Testcontainers, Cypress, Docker, GitHub Actions<br>
+**Frontend:** React, TypeScript, Vite, Electron
+
+## Como eu trabalho
+
+- Começo pelo problema e pela regra de negócio, não pela tecnologia.
+- Banco versionado (Flyway), testes com banco real (Testcontainers) e ambiente que sobe com um `docker compose up`.
+- Uso IA no dia a dia de desenvolvimento e confiro o que ela gera com testes e revisão.
+- Commits pequenos, Conventional Commits, PR mesmo em projeto solo.
+
+## Agora
+
+- Colocando o Scheduling no ar, com CI completo
+- Construindo uma API de cálculo de folha de pagamento (INSS, IRRF, FGTS) com testes parametrizados
+- Estudando Spring AI para integrar IA aos produtos

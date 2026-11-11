@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t">
+  <title id="t">Igor Henrique Heck — Desenvolvedor Backend Java · Spring Boot</title>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="#F7F8FA" stroke="#DCE2E8"/>
+
+  <!-- texto -->
+  <rect x="64" y="64" width="48" height="4" rx="2" fill="#0F6E73"/>
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
+    <text x="64" y="138" font-size="64" font-weight="700" fill="#14202B" letter-spacing="-1">Igor Henrique Heck</text>
+    <text x="64" y="186" font-size="28" font-weight="500" fill="#0F6E73">Desenvolvedor Backend Java · Spring Boot</text>
+    <text x="64" y="228" font-size="20" fill="#5B6B7A">Criciúma, SC · aberto a vagas de desenvolvimento backend</text>
+  </g>
+
+  <!-- requisição / resposta -->
+  <rect x="736.5" y="48.5" width="399" height="203" rx="12" fill="#FFFFFF" stroke="#DCE2E8"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">
+    <rect x="760" y="66" width="52" height="24" rx="5" fill="#0F6E73"/>
+    <text x="786" y="83" text-anchor="middle" font-weight="600" fill="#FFFFFF">POST</text>
+    <text x="824" y="83" fill="#14202B">/booking</text>
+    <line x1="737" y1="106" x2="1135" y2="106" stroke="#DCE2E8"/>
+    <text x="760" y="136" fill="#5B6B7A">{ <tspan fill="#0F6E73">"date"</tspan>: <tspan fill="#14202B">"2026-11-18"</tspan>,</text>
+    <text x="760" y="160" xml:space="preserve" fill="#5B6B7A">  <tspan fill="#0F6E73">"slot"</tspan>: <tspan fill="#14202B">"09:30"</tspan> }</text>
+    <circle cx="765" cy="191" r="4" fill="#0F6E73"/>
+    <text x="778" y="196" font-weight="600" fill="#0F6E73">201 Created</text>
+    <text x="760" y="226" fill="#5B6B7A">{ <tspan fill="#0F6E73">"id"</tspan>: <tspan fill="#14202B">4821</tspan>, <tspan fill="#0F6E73">"status"</tspan>: <tspan fill="#14202B">"PENDING"</tspan> }</text>
+  </g>
+</svg>
