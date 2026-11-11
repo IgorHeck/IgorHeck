@@ -19,13 +19,13 @@ Fora do trabalho, construo produtos completos, da modelagem do banco ao frontend
 
 ## Projetos
 
-| | Projeto | O que resolve | Stack |
-| --- | --- | --- | --- |
-| 📅 | **[Scheduling](https://github.com/IgorHeck/scheduling)** | Agendamento multi-tenant para clínicas: 4 papéis de acesso, booking público sem cadastro, JWT com refresh e revogação, painel em tempo real via SSE. | Java 21, Spring Boot 3, PostgreSQL, Redis, React |
-| 🏥 | **[Clineo](https://github.com/IgorHeck/clineo)** | SaaS de gestão de clínicas: agenda, pacientes e financeiro. Estudo de caso público; código privado. | Java 21, Spring Boot 3, PostgreSQL, Redis, Angular |
-| 🖥️ | **[Terminal Desktop](https://github.com/IgorHeck/terminal-app)** | Terminais organizados por projeto, com PTY real e bloqueio de comandos perigosos. | Electron, React, node-pty |
-| 🧭 | **[Maestri para Windows](https://github.com/IgorHeck/open-maestri)** | Reescrita de um app macOS (Swift) em Electron, mantendo formato de dados e protocolo de CLI compatíveis. | TypeScript, Electron, Vitest |
-| 📨 | **[Microsserviços de pedidos](https://github.com/IgorHeck/microsservicos)** | Três serviços Spring Boot que conversam só por mensagens. | Java, RabbitMQ, PostgreSQL |
+| Projeto | O que resolve | Stack |
+| --- | --- | --- |
+| **[Scheduling](https://github.com/IgorHeck/scheduling)** | Agendamento multi-tenant para clínicas: 4 papéis de acesso, booking público sem cadastro, JWT com refresh e revogação, painel em tempo real via SSE. | Java 21, Spring Boot 3, PostgreSQL, Redis, React |
+| **[Clineo](https://github.com/IgorHeck/clineo)** | SaaS de gestão de clínicas: agenda, pacientes e financeiro. Estudo de caso público; código privado. | Java 21, Spring Boot 3, PostgreSQL, Redis, Angular |
+| **[Terminal Desktop](https://github.com/IgorHeck/terminal-app)** | Terminais organizados por projeto, com PTY real e bloqueio de comandos perigosos. | Electron, React, node-pty |
+| **[Maestri para Windows](https://github.com/IgorHeck/open-maestri)** | Reescrita de um app macOS (Swift) em Electron, mantendo formato de dados e protocolo de CLI compatíveis. | TypeScript, Electron, Vitest |
+| **[Microsserviços de pedidos](https://github.com/IgorHeck/microsservicos)** | Três serviços Spring Boot que conversam só por mensagens. | Java, RabbitMQ, PostgreSQL |
 
 ## Stack
 
