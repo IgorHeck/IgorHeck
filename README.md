@@ -22,10 +22,23 @@ Fora do trabalho, construo produtos completos, da modelagem do banco ao frontend
 | Projeto | O que resolve | Stack |
 | --- | --- | --- |
 | **[Scheduling](https://github.com/IgorHeck/scheduling)** | Agendamento multi-tenant para clínicas: 4 papéis de acesso, booking público sem cadastro, JWT com refresh e revogação, painel em tempo real via SSE. | Java 21, Spring Boot 3, PostgreSQL, Redis, React |
-| **[Clineo](https://github.com/IgorHeck/clineo)** | SaaS de gestão de clínicas: agenda, pacientes e financeiro. Estudo de caso público; código privado. | Java 21, Spring Boot 3, PostgreSQL, Redis, Angular |
 | **[Terminal Desktop](https://github.com/IgorHeck/terminal-app)** | Terminais organizados por projeto, com PTY real e bloqueio de comandos perigosos. | Electron, React, node-pty |
 | **[Maestri para Windows](https://github.com/IgorHeck/open-maestri)** | Reescrita de um app macOS (Swift) em Electron, mantendo formato de dados e protocolo de CLI compatíveis. | TypeScript, Electron, Vitest |
 | **[Microsserviços de pedidos](https://github.com/IgorHeck/microsservicos)** | Três serviços Spring Boot que conversam só por mensagens. | Java, RabbitMQ, PostgreSQL |
+
+### Em construção: SaaS de gestão para clínicas
+
+Um sistema completo para clínicas e consultórios, com agenda, prontuário, financeiro, estoque e relatórios. É desenvolvido numa organização própria no GitHub, com repositórios separados para o produto, o design system, o site e a marca. O código é privado.
+
+| 420+ | 77 | 280+ | 230 mil |
+| :---: | :---: | :---: | :---: |
+| endpoints REST | migrações de banco | arquivos de teste | linhas de código |
+
+- **Arquitetura:** monólito modular com DDD e arquitetura hexagonal, dividido em 9 módulos de domínio. As fronteiras entre eles são garantidas por testes de arquitetura (ArchUnit).
+- **Multi-tenant:** cada clínica isolada por requisição, com controle de acesso por papéis e liberação de funcionalidades por plano.
+- **Backend:** Java 21, Spring Boot 3, Spring Security com JWT, JPA, PostgreSQL com Flyway, Redis, MinIO para arquivos, geração de PDF e documentação OpenAPI.
+- **Frontend:** Angular 22 em monorepo Nx, com os tipos da API gerados a partir do contrato OpenAPI e conferidos no CI.
+- **Entrega:** ambiente completo no Docker Compose e GitHub Actions rodando build, testes e lint em cada pull request. São 250 commits e mais de 60 PRs até agora.
 
 ## Stack
 
