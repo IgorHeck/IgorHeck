@@ -1,6 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t">
-  <title id="t">Igor Henrique Heck — Desenvolvedor Backend Java · Spring Boot</title>
+  <title id="t">Igor Henrique Heck · Desenvolvedor Backend Java · Spring Boot</title>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#26343E"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="m"><rect x="660" y="0" width="540" height="300" fill="url(#fade)"/></mask>
+  </defs>
+
   <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="#0F171D" stroke="#26343E"/>
+  <rect x="660" y="16" width="524" height="268" fill="url(#dots)" mask="url(#m)"/>
 
   <!-- texto -->
   <rect x="64" y="64" width="48" height="4" rx="2" fill="#4FC1BB"/>
@@ -10,17 +22,37 @@
     <text x="64" y="228" font-size="20" fill="#98A8B4">Criciúma, SC · aberto a vagas de desenvolvimento backend</text>
   </g>
 
-  <!-- requisição / resposta -->
-  <rect x="736.5" y="48.5" width="399" height="203" rx="12" fill="#16222A" stroke="#26343E"/>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">
-    <rect x="760" y="66" width="52" height="24" rx="5" fill="#4FC1BB"/>
-    <text x="786" y="83" text-anchor="middle" font-weight="600" fill="#06201F">POST</text>
-    <text x="824" y="83" fill="#E8EEF2">/booking</text>
-    <line x1="737" y1="106" x2="1135" y2="106" stroke="#26343E"/>
-    <text x="760" y="136" fill="#98A8B4">{ <tspan fill="#4FC1BB">"date"</tspan>: <tspan fill="#E8EEF2">"2026-11-18"</tspan>,</text>
-    <text x="760" y="160" xml:space="preserve" fill="#98A8B4">  <tspan fill="#4FC1BB">"slot"</tspan>: <tspan fill="#E8EEF2">"09:30"</tspan> }</text>
-    <circle cx="765" cy="191" r="4" fill="#4FC1BB"/>
-    <text x="778" y="196" font-weight="600" fill="#4FC1BB">201 Created</text>
-    <text x="760" y="226" fill="#98A8B4">{ <tspan fill="#4FC1BB">"id"</tspan>: <tspan fill="#E8EEF2">4821</tspan>, <tspan fill="#4FC1BB">"status"</tspan>: <tspan fill="#E8EEF2">"PENDING"</tspan> }</text>
+  <!-- mini diagrama de arquitetura: cliente → API → dados e mensageria -->
+  <g fill="none" stroke="#98A8B4" stroke-width="1.5">
+    <path d="M832 150 H880"/>
+    <path d="M984 150 C1006 150 1006 82 1028 82"/>
+    <path d="M984 150 H1028"/>
+    <path d="M984 150 C1006 150 1006 218 1028 218"/>
+  </g>
+  <g fill="#4FC1BB">
+    <circle cx="880" cy="150" r="3"/>
+    <circle cx="1028" cy="82" r="3"/>
+    <circle cx="1028" cy="150" r="3"/>
+    <circle cx="1028" cy="218" r="3"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" text-anchor="middle">
+    <text x="856" y="140" font-size="11" fill="#98A8B4">REST</text>
+
+    <rect x="736.5" y="132.5" width="95" height="35" rx="8" fill="#16222A" stroke="#26343E"/>
+    <text x="784" y="155" fill="#E8EEF2">client</text>
+
+    <rect x="880.5" y="126.5" width="103" height="47" rx="10" fill="#163A3C" stroke="#4FC1BB" stroke-width="1.5"/>
+    <text x="932" y="148" font-weight="700" fill="#4FC1BB">api</text>
+    <text x="932" y="164" font-size="11" fill="#98A8B4">spring boot</text>
+
+    <rect x="1028.5" y="64.5" width="107" height="35" rx="8" fill="#16222A" stroke="#26343E"/>
+    <text x="1082" y="87" fill="#E8EEF2">postgres</text>
+
+    <rect x="1028.5" y="132.5" width="107" height="35" rx="8" fill="#16222A" stroke="#26343E"/>
+    <text x="1082" y="155" fill="#E8EEF2">redis</text>
+
+    <rect x="1028.5" y="200.5" width="107" height="35" rx="8" fill="#16222A" stroke="#26343E"/>
+    <text x="1082" y="223" fill="#E8EEF2">rabbitmq</text>
   </g>
 </svg>
