@@ -13,7 +13,7 @@ Sou desenvolvedor backend com foco em **Java e Spring Boot**, bacharel em Ciênc
 
 Há mais de 3 anos trabalho na **Betha Sistemas**, software de gestão pública: escrevo scripts e fórmulas em Groovy que rodam em produção para municípios, crio relatórios e apoio migrações de dados. Foi ali que aprendi a entender o problema do cliente antes de escrever código.
 
-Fora do trabalho, construo produtos completos — da modelagem do banco ao frontend, com testes e Docker.
+Fora do trabalho, construo produtos completos, da modelagem do banco ao frontend, com testes e Docker.
 
 **Procurando:** vaga de desenvolvedor backend (Java/Spring) em time de produto, em Criciúma (SC) ou remoto.
 
@@ -38,15 +38,21 @@ Fora do trabalho, construo produtos completos — da modelagem do banco ao front
 **Qualidade e entrega:** JUnit 5, Testcontainers, Cypress, Docker, GitHub Actions<br>
 **Frontend:** React, TypeScript, Vite, Electron
 
-## Como eu trabalho
+## Experiência
 
-- Começo pelo problema e pela regra de negócio, não pela tecnologia.
-- Banco versionado (Flyway), testes com banco real (Testcontainers) e ambiente que sobe com um `docker compose up`.
-- Uso IA no dia a dia de desenvolvimento e confiro o que ela gera com testes e revisão.
-- Commits pequenos, Conventional Commits, PR mesmo em projeto solo.
+**Analista de Suporte · Betha Sistemas** · junho de 2024 até hoje
+- Scripts e fórmulas em Groovy para folha, ponto e tributos, rodando em produção para entidades públicas.
+- Relatórios, rotinas de importação e exportação e migração de dados entre bases.
+- Implantação de sistemas em municípios e treinamento de técnicos e clientes.
 
-## Agora
+**Assistente de Suporte · Betha Sistemas** · maio de 2023 a junho de 2024
+- Análise e resolução de chamados e serviços customizados nos sistemas da empresa.
 
-- Colocando o Scheduling no ar, com CI completo
-- Construindo uma API de cálculo de folha de pagamento (INSS, IRRF, FGTS) com testes parametrizados
-- Estudando Spring AI para integrar IA aos produtos
+## Formação
+
+- **Bacharelado em Ciência da Computação** · UNESC, 2022 a 2025
+- **Cursos:** Microsserviços com Spring Boot 3 e RabbitMQ e Java Completo com POO (Udemy, 2026)
+
+## Contato
+
+Se você tem uma vaga de backend Java ou quer trocar uma ideia sobre algum projeto, me chame por [e-mail](mailto:igor.heck2002@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/igorheck/).
